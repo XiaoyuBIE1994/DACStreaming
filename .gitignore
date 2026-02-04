@@ -75,7 +75,7 @@ docs/_build/
 target/
 
 # Jupyter Notebook
-.ipynb_checkpoints
+# .ipynb_checkpoints
 
 # IPython
 profile_default/
@@ -131,18 +131,18 @@ dmypy.json
 output/
 snapshot/
 *.m4a
-*.wav
-notebooks/scratch.ipynb
-notebooks/inspect.ipynb
-notebooks/effects.ipynb
-notebooks/*.ipynb
+# *.wav
+# notebooks/scratch.ipynb
+# notebooks/inspect.ipynb
+# notebooks/effects.ipynb
+# notebooks/*.ipynb
 notebooks/*.gif
 notebooks/*.wav
 notebooks/*.mp4
 *runs/
 boards/
 samples/
-*.ipynb
+# *.ipynb
 
 results.json
 metrics.csv
